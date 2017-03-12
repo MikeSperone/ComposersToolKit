@@ -2,7 +2,7 @@
 	"name" : "ComposerToolKit",
 	"version" : 1,
 	"creationdate" : -724235753,
-	"modificationdate" : -722810134,
+	"modificationdate" : -722808599,
 	"viewrect" : [ 19.0, 195.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -48,8 +48,7 @@
 ,
 			"max_git.maxpat" : 			{
 				"kind" : "patcher",
-				"local" : 1,
-				"toplevel" : 1
+				"local" : 1
 			}
 
 		}
